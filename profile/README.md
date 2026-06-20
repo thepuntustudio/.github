@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[https://your-logo-url-here.png](https://raw.githubusercontent.com/thepuntustudio/.github/main/profile/logo.png)" 
+<img src="https://raw.githubusercontent.com/thepuntustudio/.github/main/profile/logo.png" 
 alt="Puntu Studio" width="120"/>
 
 # Puntu Studio
