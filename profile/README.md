@@ -33,7 +33,8 @@ This page is where the games live. The devlogs, the wins, the failures, and ever
 
 | Project | Description | Platform | Status |
 |---|---|---|---|
-| [Unity Mini Game Pack Vol.1](https://github.com/thepuntustudio/unity-mini-game-pack-vol1) | 6 playable mini games — first studio release | WebGL | ✅ Released |
+| [Unity Mini Game Pack Vol.1](https://github.com/thepuntustudio/unity-mini-game-pack-vol1) | 6 playable mini games — first studio release | WebGL/Windows | ✅ Released |
+| [Maze Escape Game 3d](https://github.com/thepuntustudio/Unity_Maze_Escape_Game_3d) | 3d maze escape game filled with traps and puzzle | WebGl/Windows/Andriod/MacOS | Prototype Under Development |
 
 *More coming. Follow the journey.*
 
